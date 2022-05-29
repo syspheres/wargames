@@ -1,0 +1,1 @@
+|games/wargames/view/readme.md]

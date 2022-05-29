@@ -1,1 +1,0 @@
-# /games/wargames/data/readme.txt
